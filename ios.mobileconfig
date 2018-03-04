@@ -545,6 +545,10 @@
 			<string>66A6E740-B4C4-45D1-8F79-368EDB420B5F</string>
 			<key>PayloadVersion</key>
 			<integer>1</integer>
+			<key>PermittedURLs</key>
+			<array>
+				<string>https://craigslist.org</string>
+			</array>
 		</dict>
 		<dict>
 			<key>PayloadDescription</key>
