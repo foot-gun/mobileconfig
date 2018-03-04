@@ -123,94 +123,6 @@
 					<key>AlertType</key>
 					<integer>0</integer>
 					<key>BundleIdentifier</key>
-					<string>com.brave.ios.browser</string>
-					<key>NotificationsEnabled</key>
-					<false/>
-				</dict>
-				<dict>
-					<key>AlertType</key>
-					<integer>0</integer>
-					<key>BundleIdentifier</key>
-					<string>ch.protonmail.protonmail</string>
-					<key>NotificationsEnabled</key>
-					<true/>
-					<key>ShowInLockScreen</key>
-					<false/>
-					<key>ShowInNotificationCenter</key>
-					<false/>
-					<key>SoundsEnabled</key>
-					<false/>
-				</dict>
-				<dict>
-					<key>AlertType</key>
-					<integer>0</integer>
-					<key>BundleIdentifier</key>
-					<string>com.NextBus.NextBus</string>
-					<key>NotificationsEnabled</key>
-					<false/>
-				</dict>
-				<dict>
-					<key>AlertType</key>
-					<integer>0</integer>
-					<key>BundleIdentifier</key>
-					<string>com.tresorit.ios</string>
-					<key>NotificationsEnabled</key>
-					<false/>
-				</dict>
-				<dict>
-					<key>AlertType</key>
-					<integer>0</integer>
-					<key>BundleIdentifier</key>
-					<string>com.standardnotes.standardnotes</string>
-					<key>NotificationsEnabled</key>
-					<false/>
-				</dict>
-				<dict>
-					<key>AlertType</key>
-					<integer>2</integer>
-					<key>BundleIdentifier</key>
-					<string>com.zimride.instant</string>
-					<key>ShowInNotificationCenter</key>
-					<false/>
-					<key>SoundsEnabled</key>
-					<true/>
-				</dict>
-				<dict>
-					<key>AlertType</key>
-					<integer>0</integer>
-					<key>BundleIdentifier</key>
-					<string>com.amazon.Lassen</string>
-					<key>NotificationsEnabled</key>
-					<false/>
-				</dict>
-				<dict>
-					<key>AlertType</key>
-					<integer>0</integer>
-					<key>BundleIdentifier</key>
-					<string>fm.overcast.overcast</string>
-					<key>NotificationsEnabled</key>
-					<false/>
-				</dict>
-				<dict>
-					<key>AlertType</key>
-					<integer>0</integer>
-					<key>BundleIdentifier</key>
-					<string>com.lastpass.ilastpass</string>
-					<key>NotificationsEnabled</key>
-					<false/>
-				</dict>
-				<dict>
-					<key>AlertType</key>
-					<integer>0</integer>
-					<key>BundleIdentifier</key>
-					<string>com.audible.iphone</string>
-					<key>NotificationsEnabled</key>
-					<false/>
-				</dict>
-				<dict>
-					<key>AlertType</key>
-					<integer>0</integer>
-					<key>BundleIdentifier</key>
 					<string>com.apple.AppStore</string>
 					<key>NotificationsEnabled</key>
 					<true/>
@@ -234,26 +146,6 @@
 					<false/>
 					<key>SoundsEnabled</key>
 					<false/>
-				</dict>
-				<dict>
-					<key>AlertType</key>
-					<integer>0</integer>
-					<key>BundleIdentifier</key>
-					<string>com.rsa.securid.iphone.SecurID</string>
-					<key>NotificationsEnabled</key>
-					<false/>
-				</dict>
-				<dict>
-					<key>AlertType</key>
-					<integer>0</integer>
-					<key>BundleIdentifier</key>
-					<string>com.generalmagic.magicearth</string>
-					<key>NotificationsEnabled</key>
-					<false/>
-				</dict>
-				<dict>
-					<key>BundleIdentifier</key>
-					<string>com.tinyspeck.chatlyio</string>
 				</dict>
 			</array>
 			<key>PayloadDescription</key>
@@ -494,32 +386,6 @@
 			<integer>1</integer>
 		</dict>
 		<dict>
-			<key>CalDAVAccountDescription</key>
-			<string>Fruux Calendar</string>
-			<key>CalDAVHostName</key>
-			<string>dav.fruux.com</string>
-			<key>CalDAVPassword</key>
-			<string>REDACTED</string>
-			<key>CalDAVPort</key>
-			<integer>443</integer>
-			<key>CalDAVUseSSL</key>
-			<true/>
-			<key>CalDAVUsername</key>
-			<string>REDACTED</string>
-			<key>PayloadDescription</key>
-			<string>Configures a CalDAV account</string>
-			<key>PayloadDisplayName</key>
-			<string>CalDAV</string>
-			<key>PayloadIdentifier</key>
-			<string>com.apple.caldav.account.AE3F0DF0-37CD-4EE6-8878-B8FBBE683723</string>
-			<key>PayloadType</key>
-			<string>com.apple.caldav.account</string>
-			<key>PayloadUUID</key>
-			<string>AE3F0DF0-37CD-4EE6-8878-B8FBBE683723</string>
-			<key>PayloadVersion</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
 			<key>AutoFilterEnabled</key>
 			<true/>
 			<key>BlacklistedURLs</key>
@@ -571,32 +437,6 @@
 			<integer>1</integer>
 			<key>requireAlphanumeric</key>
 			<false/>
-		</dict>
-		<dict>
-			<key>CardDAVAccountDescription</key>
-			<string>Fruux Contacts</string>
-			<key>CardDAVHostName</key>
-			<string>dav.fruux.com</string>
-			<key>CardDAVPassword</key>
-			<string>REDACTED</string>
-			<key>CardDAVPort</key>
-			<integer>443</integer>
-			<key>CardDAVUseSSL</key>
-			<true/>
-			<key>CardDAVUsername</key>
-			<string>REDACTED</string>
-			<key>PayloadDescription</key>
-			<string>Configures a CardDAV account</string>
-			<key>PayloadDisplayName</key>
-			<string>CardDAV</string>
-			<key>PayloadIdentifier</key>
-			<string>com.apple.carddav.account.32793BAB-1434-4237-90EC-DBFE241CFE6F</string>
-			<key>PayloadType</key>
-			<string>com.apple.carddav.account</string>
-			<key>PayloadUUID</key>
-			<string>32793BAB-1434-4237-90EC-DBFE241CFE6F</string>
-			<key>PayloadVersion</key>
-			<integer>1</integer>
 		</dict>
 		<dict>
 			<key>AlwaysOn</key>
@@ -703,11 +543,11 @@
 		</dict>
 	</array>
 	<key>PayloadDescription</key>
-	<string>Force always-on VPN, add several app restrictions, restrict some notifications, and sync Card/CalDAV.</string>
+	<string>Copied from https://github.com/murphdasmurf/mobileconfig</string>
 	<key>PayloadDisplayName</key>
 	<string>Murph's Lockdown</string>
 	<key>PayloadIdentifier</key>
-	<string>kmurp-13tbr.ECD12D43-239D-40AA-A3F7-CE1F62627F63</string>
+	<string>host.ECD12D43-239D-40AA-A3F7-CE1F62627F63</string>
 	<key>PayloadRemovalDisallowed</key>
 	<true/>
 	<key>PayloadType</key>
