@@ -64,59 +64,6 @@
 			<integer>1</integer>
 		</dict>
 		<dict>
-			<key>PayloadCertificateFileName</key>
-			<string>root (nord).der</string>
-			<key>PayloadContent</key>
-			<data>
-			MIIFCjCCAvKgAwIBAgIBATANBgkqhkiG9w0BAQ0FADA5MQswCQYD
-			VQQGEwJQQTEQMA4GA1UEChMHTm9yZFZQTjEYMBYGA1UEAxMPTm9y
-			ZFZQTiBSb290IENBMB4XDTE2MDEwMTAwMDAwMFoXDTM1MTIzMTIz
-			NTk1OVowOTELMAkGA1UEBhMCUEExEDAOBgNVBAoTB05vcmRWUE4x
-			GDAWBgNVBAMTD05vcmRWUE4gUm9vdCBDQTCCAiIwDQYJKoZIhvcN
-			AQEBBQADggIPADCCAgoCggIBAMkr/BYhyo0F2upsIMXwC6QvkZps
-			3NN2/eQFkfQIS1gql0aejsKsEnmY0Kaon8uZCTXPsRH1gQNgg5D2
-			gixdd1mJUvV3dE3y9FJrXMoDkXdCGBodvKJyU6lcfEVF6/UxHcbB
-			guZK9UtRHS9eJYm3rpL/5huQMCppX7kUeQ8dpCwd3iKITqwd1Zud
-			DqsWaU0vqzC2H55IyaZ/5/TnCk31Q1UP6BksbbuRcwOVskEDsm6Y
-			oWDnn/IIzGOYnFJRzQH5jTz3j1QBvRIuQuBuvUkfhx1FEwhwZigr
-			cxXuMP+QgM54kezgziJUaZcOM2zF3lvrwMvXDMfNeIoJABv9ljw9
-			69xQ8czQCU5lMVmA37ltv5Ec9U5hZuwk/9QO1Z+d/r6Jx0mlurS8
-			gnCAKJgwa3kyZw6e4FZ8mYL4vpRRhPdvRTWCMJkeB4yBHyhxUmTR
-			gJHm6YR3D6hcFAc9cQcTEl/I60tMdz33G6m0O42sQt/+AR3YCY/R
-			usWVBJB/qNS94EtNtj8iaebCQW1jHAhvGmFILVR9lzD0EzWKHkvy
-			WEjmUVRgCDd6Ne3eFRNS73gdv/C3l5boYySeu4exkEYVxVRn8DhC
-			xs0MnkMHWFK6MyzXCCn+JnWFDYPfDKHvpff/kLDobtPBf+Lbch5w
-			Qy9quY27xaj0XwLyjOltpiSTLWae/Q4vAgMBAAGjHTAbMAwGA1Ud
-			EwQFMAMBAf8wCwYDVR0PBAQDAgEGMA0GCSqGSIb3DQEBDQUAA4IC
-			AQC9fUL2sZPxIN2mD32VeNySTgZlCEdVmlq471o/bDMP4B8gnQes
-			FRtXY2ZCjs50Jm73B2LViL9qlREmI6vE5IC8IsRBJSV4ce1WYxyX
-			ro5rmVg/k6a10rlsbK/eg//GHoJxDdXDOokLUSnxt7gk3QKpX6eC
-			dh67p0PuWm/7WUJQxH2SDxsT9vB/iZriTIEe/ILoOQF0Aqp7AgNC
-			cLcLAmbxXQkXYCCSB35Vp06u+eTWjG0/pyS5V14stGtw+fA0DJp5
-			ZJV4eqJ5LqxMlYvEZ/qKTEdoCeaXv2QEmN6dVqjDoTAok0t5u4YR
-			XzEVCfXAC3ocplNdtCA72wjFJcSbfif4BSC8bDACTXtnPC7nD0Vn
-			dZLp+RiNLeiENhk0oTC+UVdSc+n2nJOzkCK0vYu0Ads4JGIB7g8I
-			B3z2t9ICmsWrgnhdNdcOe15BincrGA8avQ1cWXsfIKEjbrnEuEk9
-			b5jel6NfHtPKoHc9mDpRdNPISeVawDBM1mJChneHt59Nh8Gah74+
-			TM1jBsw4fhJPvoc7Atcg740JErb904mZfkIEmojCVPhBHVQ9LHBA
-			dM8qFI2kRK0IynOmAZhexlP/aT/kpEsEPyaZQlnBn3An1CRz8h0S
-			PApL8PytggYKeQmRhl499+6jLxcZ2IegLfqq41dzIjwHwTMplg+1
-			pKIOVojpWA==
-			</data>
-			<key>PayloadDescription</key>
-			<string>Adds a CA root certificate</string>
-			<key>PayloadDisplayName</key>
-			<string>NordVPN Root CA</string>
-			<key>PayloadIdentifier</key>
-			<string>com.apple.security.root.86B8711B-1AE4-474F-9A21-E3E982F723DC</string>
-			<key>PayloadType</key>
-			<string>com.apple.security.root</string>
-			<key>PayloadUUID</key>
-			<string>86B8711B-1AE4-474F-9A21-E3E982F723DC</string>
-			<key>PayloadVersion</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
 			<key>NotificationSettings</key>
 			<array>
 				<dict>
