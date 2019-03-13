@@ -7,7 +7,3 @@ The only type of VPN compatible with always-on is IKEv2. I am a ProtonVPN user, 
 If you are also a ProtonVPN user, just replace `REDACTED` in the configs with your provided OpenVPN credentials. If you wish, replace the IP addresses with the IP addresses of other servers from the Server Configs tab in the Downloads section (NB: do not use the Secure configs, they are not compatible with IKEv2).
 
 If you are a customer of a different VPN that supports IKEv2, or you rolled your own (good on you!), don't forget to swap the CA payload with your provider's.
-
-### TODO
-* Determine if entire protocols can be disabled with Content Filtering by specifying alternate URI schemes.
-* Test whether a huge blacklist (>>500) explodes.
