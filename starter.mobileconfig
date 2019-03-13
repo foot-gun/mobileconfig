@@ -3,108 +3,60 @@
 <plist version="1.0">
 <dict>
 	<key>HasRemovalPasscode</key>
-	<false/>
+	<true/>
 	<key>PayloadContent</key>
 	<array>
 		<dict>
-			<key>PayloadCertificateFileName</key>
-			<string>ProtonVPN_ike_root.der</string>
-			<key>PayloadContent</key>
-			<data>
-			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
-			Tlpi7A==
-			</data>
 			<key>PayloadDescription</key>
-			<string>Adds a CA root certificate</string>
+			<string>Configures passcode settings</string>
 			<key>PayloadDisplayName</key>
-			<string>ProtonVPN Root CA</string>
+			<string>Passcode</string>
 			<key>PayloadIdentifier</key>
-			<string>com.apple.security.root.25CD3C17-A32E-4E1F-B195-44DBE7A820D3</string>
+			<string>com.apple.mobiledevice.passwordpolicy.5868918D-2025-4F29-9193-AAFB97065069</string>
 			<key>PayloadType</key>
-			<string>com.apple.security.root</string>
+			<string>com.apple.mobiledevice.passwordpolicy</string>
 			<key>PayloadUUID</key>
-			<string>25CD3C17-A32E-4E1F-B195-44DBE7A820D3</string>
+			<string>5868918D-2025-4F29-9193-AAFB97065069</string>
 			<key>PayloadVersion</key>
 			<integer>1</integer>
+			<key>allowSimple</key>
+			<true/>
+			<key>forcePIN</key>
+			<true/>
+			<key>maxInactivity</key>
+			<integer>1</integer>
+			<key>requireAlphanumeric</key>
+			<false/>
 		</dict>
 		<dict>
-			<key>NotificationSettings</key>
-			<array>
-				<dict>
-					<key>AlertType</key>
-					<integer>0</integer>
-					<key>BundleIdentifier</key>
-					<string>com.apple.AppStore</string>
-					<key>NotificationsEnabled</key>
-					<true/>
-					<key>ShowInLockScreen</key>
-					<false/>
-					<key>ShowInNotificationCenter</key>
-					<false/>
-					<key>SoundsEnabled</key>
-					<false/>
-				</dict>
-				<dict>
-					<key>AlertType</key>
-					<integer>0</integer>
-					<key>BundleIdentifier</key>
-					<string>com.apple.Preferences</string>
-					<key>NotificationsEnabled</key>
-					<true/>
-					<key>ShowInLockScreen</key>
-					<false/>
-					<key>ShowInNotificationCenter</key>
-					<false/>
-					<key>SoundsEnabled</key>
-					<false/>
-				</dict>
-			</array>
 			<key>PayloadDescription</key>
-			<string>Configures notifications settings for apps</string>
+			<string>Configures a password for profile removal</string>
 			<key>PayloadDisplayName</key>
-			<string>Notifications</string>
+			<string>Profile Removal</string>
 			<key>PayloadIdentifier</key>
-			<string>com.apple.notificationsettings.B577C5B9-C0CC-451C-B63A-49FFBB24C37F</string>
+			<string>com.apple.profileRemovalPassword.596E2DCC-0137-4235-B485-61144FC5A7A1</string>
 			<key>PayloadType</key>
-			<string>com.apple.notificationsettings</string>
+			<string>com.apple.profileRemovalPassword</string>
 			<key>PayloadUUID</key>
-			<string>B577C5B9-C0CC-451C-B63A-49FFBB24C37F</string>
+			<string>596E2DCC-0137-4235-B485-61144FC5A7A1</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>RemovalPassword</key>
+			<string>REDACTED</string>
+		</dict>
+		<dict>
+			<key>IfLostReturnToMessage</key>
+			<string>root@localhost.network</string>
+			<key>PayloadDescription</key>
+			<string>Configures ownership information for a shared device</string>
+			<key>PayloadDisplayName</key>
+			<string>Lock Screen Message</string>
+			<key>PayloadIdentifier</key>
+			<string>com.apple.shareddeviceconfiguration.C437BFF0-0AAE-4425-A2F9-920EA87393C1</string>
+			<key>PayloadType</key>
+			<string>com.apple.shareddeviceconfiguration</string>
+			<key>PayloadUUID</key>
+			<string>C437BFF0-0AAE-4425-A2F9-920EA87393C1</string>
 			<key>PayloadVersion</key>
 			<integer>1</integer>
 		</dict>
@@ -114,17 +66,17 @@
 			<key>PayloadDisplayName</key>
 			<string>Restrictions</string>
 			<key>PayloadIdentifier</key>
-			<string>com.apple.applicationaccess.1B8F0E4D-6237-405A-85E1-355808DD93CC</string>
+			<string>com.apple.applicationaccess.D7FDB57F-7207-450D-AAE8-9976954BA059</string>
 			<key>PayloadType</key>
 			<string>com.apple.applicationaccess</string>
 			<key>PayloadUUID</key>
-			<string>1B8F0E4D-6237-405A-85E1-355808DD93CC</string>
+			<string>D7FDB57F-7207-450D-AAE8-9976954BA059</string>
 			<key>PayloadVersion</key>
 			<integer>1</integer>
 			<key>allowActivityContinuation</key>
 			<false/>
 			<key>allowAddingGameCenterFriends</key>
-			<true/>
+			<false/>
 			<key>allowAirDrop</key>
 			<false/>
 			<key>allowAirPlayIncomingRequests</key>
@@ -179,6 +131,8 @@
 			<false/>
 			<key>allowDictation</key>
 			<false/>
+			<key>allowESIMModification</key>
+			<false/>
 			<key>allowEnablingRestrictions</key>
 			<true/>
 			<key>allowEnterpriseAppTrust</key>
@@ -192,7 +146,7 @@
 			<key>allowExplicitContent</key>
 			<true/>
 			<key>allowFindMyFriendsModification</key>
-			<true/>
+			<false/>
 			<key>allowFingerprintForUnlock</key>
 			<true/>
 			<key>allowFingerprintModification</key>
@@ -202,7 +156,7 @@
 			<key>allowGlobalBackgroundFetchWhenRoaming</key>
 			<false/>
 			<key>allowInAppPurchases</key>
-			<true/>
+			<false/>
 			<key>allowKeyboardShortcuts</key>
 			<true/>
 			<key>allowLockScreenControlCenter</key>
@@ -233,6 +187,10 @@
 			<false/>
 			<key>allowPasscodeModification</key>
 			<true/>
+			<key>allowPasswordProximityRequests</key>
+			<false/>
+			<key>allowPasswordSharing</key>
+			<false/>
 			<key>allowPhotoStream</key>
 			<false/>
 			<key>allowPodcasts</key>
@@ -248,7 +206,7 @@
 			<key>allowRemoteScreenObservation</key>
 			<false/>
 			<key>allowSafari</key>
-			<false/>
+			<true/>
 			<key>allowScreenShot</key>
 			<true/>
 			<key>allowSharedStream</key>
@@ -263,12 +221,14 @@
 			<true/>
 			<key>allowUIConfigurationProfileInstallation</key>
 			<true/>
-			<key>allowUntrustedTLSPrompt</key>
+			<key>allowUSBRestrictedMode</key>
 			<true/>
+			<key>allowUntrustedTLSPrompt</key>
+			<false/>
 			<key>allowVPNCreation</key>
 			<true/>
 			<key>allowVideoConferencing</key>
-			<true/>
+			<false/>
 			<key>allowVoiceDialing</key>
 			<false/>
 			<key>allowWallpaperModification</key>
@@ -281,11 +241,15 @@
 			<false/>
 			<key>forceAssistantProfanityFilter</key>
 			<false/>
+			<key>forceAuthenticationBeforeAutoFill</key>
+			<true/>
 			<key>forceClassroomAutomaticallyJoinClasses</key>
 			<false/>
 			<key>forceClassroomUnpromptedAppAndDeviceLock</key>
 			<false/>
 			<key>forceClassroomUnpromptedScreenObservation</key>
+			<false/>
+			<key>forceDelayedSoftwareUpdates</key>
 			<false/>
 			<key>forceEncryptedBackup</key>
 			<false/>
@@ -316,191 +280,19 @@
 			<key>safariForceFraudWarning</key>
 			<true/>
 		</dict>
-		<dict>
-			<key>IfLostReturnToMessage</key>
-			<string>root@localhost.network</string>
-			<key>PayloadDescription</key>
-			<string>Configures ownership information for a shared device</string>
-			<key>PayloadDisplayName</key>
-			<string>Lock Screen Message</string>
-			<key>PayloadIdentifier</key>
-			<string>com.apple.shareddeviceconfiguration.C437BFF0-0AAE-4425-A2F9-920EA87393C1</string>
-			<key>PayloadType</key>
-			<string>com.apple.shareddeviceconfiguration</string>
-			<key>PayloadUUID</key>
-			<string>C437BFF0-0AAE-4425-A2F9-920EA87393C1</string>
-			<key>PayloadVersion</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>AutoFilterEnabled</key>
-			<true/>
-			<key>BlacklistedURLs</key>
-			<array>
-				<string>https://ads.web.aol.com</string>
-				<string>http://ads.web.aol.com</string>
-			</array>
-			<key>FilterBrowsers</key>
-			<true/>
-			<key>FilterSockets</key>
-			<true/>
-			<key>FilterType</key>
-			<string>BuiltIn</string>
-			<key>PayloadDescription</key>
-			<string>Configures content filtering settings</string>
-			<key>PayloadDisplayName</key>
-			<string>Web Content Filter</string>
-			<key>PayloadIdentifier</key>
-			<string>com.apple.webcontent-filter.66A6E740-B4C4-45D1-8F79-368EDB420B5F</string>
-			<key>PayloadType</key>
-			<string>com.apple.webcontent-filter</string>
-			<key>PayloadUUID</key>
-			<string>66A6E740-B4C4-45D1-8F79-368EDB420B5F</string>
-			<key>PayloadVersion</key>
-			<integer>1</integer>
-			<key>PermittedURLs</key>
-			<array>
-				<string>https://craigslist.org</string>
-			</array>
-		</dict>
-		<dict>
-			<key>PayloadDescription</key>
-			<string>Configures passcode settings</string>
-			<key>PayloadDisplayName</key>
-			<string>Passcode</string>
-			<key>PayloadIdentifier</key>
-			<string>com.apple.mobiledevice.passwordpolicy.5868918D-2025-4F29-9193-AAFB97065069</string>
-			<key>PayloadType</key>
-			<string>com.apple.mobiledevice.passwordpolicy</string>
-			<key>PayloadUUID</key>
-			<string>5868918D-2025-4F29-9193-AAFB97065069</string>
-			<key>PayloadVersion</key>
-			<integer>1</integer>
-			<key>allowSimple</key>
-			<true/>
-			<key>forcePIN</key>
-			<true/>
-			<key>maxInactivity</key>
-			<integer>1</integer>
-			<key>requireAlphanumeric</key>
-			<false/>
-		</dict>
-		<dict>
-			<key>AlwaysOn</key>
-			<dict>
-				<key>AllowedCaptiveNetworkPlugins</key>
-				<array/>
-				<key>ServiceExceptions</key>
-				<array/>
-				<key>TunnelConfigurations</key>
-				<array>
-					<dict>
-						<key>AuthName</key>
-						<string>REDACTED</string>
-						<key>AuthPassword</key>
-						<string>REDACTED</string>
-						<key>AuthenticationMethod</key>
-						<string>None</string>
-						<key>ChildSecurityAssociationParameters</key>
-						<dict>
-							<key>DiffieHellmanGroup</key>
-							<integer>14</integer>
-							<key>EncryptionAlgorithm</key>
-							<string>AES-256</string>
-							<key>IntegrityAlgorithm</key>
-							<string>SHA2-256</string>
-							<key>LifeTimeInMinutes</key>
-							<integer>1440</integer>
-						</dict>
-						<key>DeadPeerDetectionRate</key>
-						<string>Medium</string>
-						<key>DisableMOBIKE</key>
-						<integer>0</integer>
-						<key>DisableRedirect</key>
-						<integer>0</integer>
-						<key>EnableCertificateRevocationCheck</key>
-						<true/>
-						<key>EnablePFS</key>
-						<true/>
-						<key>ExtendedAuthEnabled</key>
-						<true/>
-						<key>IKESecurityAssociationParameters</key>
-						<dict>
-							<key>DiffieHellmanGroup</key>
-							<integer>14</integer>
-							<key>EncryptionAlgorithm</key>
-							<string>AES-256</string>
-							<key>IntegrityAlgorithm</key>
-							<string>SHA2-512</string>
-							<key>LifeTimeInMinutes</key>
-							<integer>1440</integer>
-						</dict>
-						<key>Interfaces</key>
-						<array>
-							<string>Cellular</string>
-							<string>WiFi</string>
-						</array>
-						<key>LocalIdentifier</key>
-						<string>170.178.173.156</string>
-						<key>NATKeepAliveInterval</key>
-						<integer>110</integer>
-						<key>NATKeepAliveOffloadEnable</key>
-						<integer>1</integer>
-						<key>ProtocolType</key>
-						<string>IKEv2</string>
-						<key>RemoteAddress</key>
-						<string>170.178.173.156</string>
-						<key>RemoteIdentifier</key>
-						<string>170.178.173.156</string>
-						<key>UseConfigurationAttributeInternalIPSubnet</key>
-						<integer>0</integer>
-					</dict>
-				</array>
-				<key>UIToggleEnabled</key>
-				<true/>
-			</dict>
-			<key>IPv4</key>
-			<dict>
-				<key>OverridePrimary</key>
-				<integer>1</integer>
-			</dict>
-			<key>PayloadDescription</key>
-			<string>Configures VPN settings</string>
-			<key>PayloadDisplayName</key>
-			<string>VPN</string>
-			<key>PayloadIdentifier</key>
-			<string>com.apple.vpn.managed.7F7CD4F7-DC08-4016-A75B-FD714CE78062</string>
-			<key>PayloadType</key>
-			<string>com.apple.vpn.managed</string>
-			<key>PayloadUUID</key>
-			<string>7F7CD4F7-DC08-4016-A75B-FD714CE78062</string>
-			<key>PayloadVersion</key>
-			<integer>1</integer>
-			<key>Proxies</key>
-			<dict>
-				<key>HTTPEnable</key>
-				<integer>0</integer>
-				<key>HTTPSEnable</key>
-				<integer>0</integer>
-			</dict>
-			<key>UserDefinedName</key>
-			<string>ProtonVPN</string>
-			<key>VPNType</key>
-			<string>AlwaysOn</string>
-		</dict>
 	</array>
 	<key>PayloadDescription</key>
-	<string>Copied from https://github.com/murphdasmurf/mobileconfig</string>
+	<string>Disable much creepy via Restrictions.</string>
 	<key>PayloadDisplayName</key>
 	<string>Murph's Lockdown</string>
 	<key>PayloadIdentifier</key>
-	<string>host.ECD12D43-239D-40AA-A3F7-CE1F62627F63</string>
+	<string>kmurp-13tbr.ECD12D43-239D-40AA-A3F7-CE1F62627F63</string>
 	<key>PayloadRemovalDisallowed</key>
 	<true/>
 	<key>PayloadType</key>
 	<string>Configuration</string>
 	<key>PayloadUUID</key>
-	<string>F94565F1-095D-4D77-BC7C-7BE9F1E73579</string>
+	<string>87BA338B-FFD3-4AB4-8470-35D3E20326FF</string>
 	<key>PayloadVersion</key>
 	<integer>1</integer>
 </dict>
